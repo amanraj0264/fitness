@@ -1,0 +1,131 @@
+/* nav-bar */
+
+.logo {
+    width: 40px;
+    border-radius: 20px;
+  }
+
+  .navbar {
+    background-color: #000033;
+
+  }
+
+  .nav-link {
+    color: white;
+  }
+
+  .nav-link:hover {
+    color: white;
+    text-decoration: underline;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+  }
+
+  .navbar-toggler {
+    background-color: white;
+
+
+  }
+
+  #nav-search {
+    color: white;
+    border: 1px solid white;
+
+  }
+
+  #nav-search:hover {
+    outline-style: solid;
+
+  }
+
+  /* nav-bar-end */
+
+
+  /* second section img and text */
+
+  .thourght1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-size: 40px;
+
+  }
+
+  .thourght {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: white;
+
+  }
+
+  .img {
+    border-radius: 200px 50px 50px 200px;
+    width: 500px;
+    outline-color: rgb(41, 24, 138);
+
+  }
+
+  .img:hover {
+    outline-style: solid;
+
+  }
+
+  .thourght3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+  }
+
+  /* second section img and text end*/
+
+  .reg-fitness-heading {
+    text-align: center;
+    color: rgb(62, 62, 159);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+  }
+
+  /* we offer */
+
+
+  h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: red;
+  }
+
+  h4 {
+    text-align: center;
+    color: rgb(207, 68, 68);
+  }
+
+  h3 {
+    color: white;
+    text-align: center;
+  }
+
+  .we-offer-box {
+    border: 2px solid white;
+    width: 360px;
+    height: 450px;
+    border-radius: 20px;
+    background-color: #1e2024;
+
+  }
+
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    color: rgb(67, 65, 65);
+  }
+
+  /* footer */
+
+  address{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
+  }
